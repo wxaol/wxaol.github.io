@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wxaol.github.io/qXZ/sitemap.qXZ.gz
